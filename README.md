@@ -9,7 +9,7 @@ Calculate the cost to crack a password
 
 `sudo pip install -r requirements.txt`
 
-# Usage
+# Commandline Usage
 
 ```
 usage: pass-cost.py [-h] [--show-pass] [--hash HASH] [--gui]
@@ -22,3 +22,7 @@ optional arguments:
   --hash HASH  set the hash type. SHA1, MD5, or BCRYPT (default: SHA1)
   --gui        use GUI interface
 ```
+
+# Gui Usage
+
+<img width="300" alt="gui screenshot" src="https://cloud.githubusercontent.com/assets/5581855/23483198/365a21a0-fe8f-11e6-8119-dc038c97ad7d.png">
