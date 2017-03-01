@@ -4,7 +4,9 @@ Calculate the cost to crack a password
 # Installation
 
 `git clone https://github.com/miketweaver/password-cost`
+
 `cd password-cost`
+
 `sudo pip install -r requirements.txt`
 
 # Usage
